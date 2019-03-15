@@ -1,0 +1,71 @@
+{
+  "_from": "cordova-plugin-intercom@^6.2.0",
+  "_id": "cordova-plugin-intercom@6.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-xjhlEt/6OgOFJnA2iD6OJMyhnqMD+s2MLzS+erx2jA4XG9xiXzLAkIZGBukaRcf/RzuNnKA2HnGXiTIRV7xTvQ==",
+  "_location": "/cordova-plugin-intercom",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-intercom@^6.2.0",
+    "name": "cordova-plugin-intercom",
+    "escapedName": "cordova-plugin-intercom",
+    "rawSpec": "^6.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^6.2.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-intercom/-/cordova-plugin-intercom-6.2.0.tgz",
+  "_shasum": "c0b7107f78d343dfe3df9357e6f77b8348042d6b",
+  "_spec": "cordova-plugin-intercom@^6.2.0",
+  "_where": "C:\\Users\\bharathkumar.p\\demo\\demoapp",
+  "author": {
+    "name": "Intercom"
+  },
+  "bugs": {
+    "url": "https://github.com/intercom/intercom-cordova/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-intercom",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Official Cordova/PhoneGap plugin for Intercom",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=7.1.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=7.0.0"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=4.5.4"
+    }
+  ],
+  "homepage": "https://github.com/intercom/intercom-cordova#readme",
+  "keywords": [
+    "intercom",
+    "intercom-cordova",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "MIT License",
+  "name": "cordova-plugin-intercom",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intercom/intercom-cordova.git"
+  },
+  "version": "6.2.0"
+}
